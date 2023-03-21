@@ -10,3 +10,5 @@ This project can
 - Change the sequence of node
 
 I have completed this assignment for that I have used HTML,CSS, JavaScript and A little JQuery.
+
+You can run this without any installation, I have used CDN for jquery
